@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "picnic-test"
+    }
+  },
+  "defaultProject": "picnic-test",
+  "cli": {
+    "analytics": "a657085e-2ea7-460b-bac6-a3107c9ad99d"
+  }
 }
